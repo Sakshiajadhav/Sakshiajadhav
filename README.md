@@ -29,10 +29,17 @@ reliable, automated, cloud-native infrastructure.
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications & Training
 
-- 🔄 CKA — Certified Kubernetes Administrator *(In Progress)*
-- ✅ AWS Cloud Practitioner CLF-C02 *(Course Completed)*
+| Certificate | Platform | Status |
+|---|---|---|
+| Kubernetes for Beginners | KodeKloud | ✅ Completed |
+| Docker Training Course | KodeKloud | ✅ Completed |
+| Linux Basics | KodeKloud | ✅ Completed |
+| Shell Scripts for Beginners | KodeKloud | ✅ Completed |
+| Python for DevOps | KodeKloud | 🔄 In Progress |
+| CKA — Certified Kubernetes Administrator | Linux Foundation | 🔄 In Progress |
+
 
 ---
 
