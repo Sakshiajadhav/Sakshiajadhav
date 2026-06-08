@@ -37,7 +37,7 @@ reliable, automated, cloud-native infrastructure.
 | Docker Training Course | KodeKloud | ✅ Completed |
 | Linux Basics | KodeKloud | ✅ Completed |
 | Shell Scripts for Beginners | KodeKloud | ✅ Completed |
-| Python for DevOps | KodeKloud | 🔄 In Progress |
+| Python Basics | KodeKloud | ✅ Completed |
 | CKA — Certified Kubernetes Administrator | Linux Foundation | 🔄 In Progress |
 
 
