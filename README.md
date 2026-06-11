@@ -1,6 +1,6 @@
 # Hi, I'm Sakshi Jadhav 👋
 
-### DevOps Engineer | Fresher | Open to Work
+### DevOps Engineer | Kubernetes · Docker · Terraform · AWS | Open to Work
 
 I'm a Computer Science graduate passionate about building
 reliable, automated, cloud-native infrastructure.
@@ -33,12 +33,7 @@ reliable, automated, cloud-native infrastructure.
 
 | Certificate | Platform | Status |
 |---|---|---|
-| Kubernetes for Beginners | KodeKloud | ✅ Completed |
-| Docker Training Course | KodeKloud | ✅ Completed |
-| Linux Basics | KodeKloud | ✅ Completed |
-| Shell Scripts for Beginners | KodeKloud | ✅ Completed |
-| Python Basics | KodeKloud | ✅ Completed |
-| CKA — Certified Kubernetes Administrator | Linux Foundation | 🔄 In Progress |
+| CKA — Certified Kubernetes Administrator | Linux Foundation | 🔄 In Progress July 2026 
 
 
 ---
