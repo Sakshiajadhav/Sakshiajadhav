@@ -1,4 +1,4 @@
-# Hi, I'm Sakshi Jadhav 👋
+# Hi, I'm Sakshi Jadhav
 
 ### DevOps Engineer | Kubernetes · Docker · Terraform · AWS | Open to Work
 
@@ -7,7 +7,7 @@ reliable, automated, cloud-native infrastructure.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -20,24 +20,24 @@ reliable, automated, cloud-native infrastructure.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
 | [Kubernetes System Health API](https://github.com/Sakshiajadhav/kubernetes-system-health-api) | Production-style K8s deployment with CI/CD, health probes, rolling updates | K8s, Docker, Flask, GitHub Actions |
-| Terraform AWS Infra *(coming soon)* | Auto-scaling AWS infrastructure with VPC, ALB, EC2 | Terraform, AWS, IaC |
+| [Terraform AWS Infra](https://github.com/Sakshiajadhav/terraform-aws-infra) | Multi-AZ AWS infrastructure — VPC, ALB, Auto Scaling, remote state (observability in progress) | Terraform, AWS, IaC |
 
 ---
 
-### 📜 Certifications & Training
+### Certifications & Training
 
 | Certificate | Platform | Status |
 |---|---|---|
-| CKA — Certified Kubernetes Administrator | Linux Foundation | 🔄 In Progress July 2026 
-
+| CKA — Certified Kubernetes Administrator | Linux Foundation / CNCF | Certified |
+| AWS Certified Cloud Practitioner (CLF-C02) | KodeKloud | Completed |
 
 ---
 
-### 📍 Based in Belagavi | Open to Bengaluru · Pune · Hyderabad
+### Based in Belagavi | Open to Bengaluru · Pune · Hyderabad
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sakshi-jadhav-tech/)
