@@ -42,7 +42,7 @@ Multi-AZ AWS environment provisioned via Terraform — custom VPC, Application L
 
 ---
 
-### 📍 Based in Belagavi | Open to Bengaluru · Pune · Hyderabad
+###  Open to Relocate | Remote 
 
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-jadhav-tech/)
