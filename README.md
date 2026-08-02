@@ -38,7 +38,6 @@ Multi-AZ AWS environment provisioned via Terraform — custom VPC, Application L
 ### 🎓 Certifications
 
 - ✅ Certified Kubernetes Administrator (CKA) — CNCF/Linux Foundation
-- ✅ AWS Certified Cloud Practitioner (CLF-C02) — KodeKloud
 
 ---
 
